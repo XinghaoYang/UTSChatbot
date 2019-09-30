@@ -149,7 +149,8 @@ url()                   -> returns url on UTS handbook
 ```
 
 ### Steps for making a webchat tool
-First, you should have an editable webpage, and add the following code into the page body:
+Before using the webchat widget, one need to register and install the [ngrok](https://dashboard.ngrok.com/signup) by following the "Setup & Installation" four steps. Ngrok allows you to expose a web server running on your local machine to the internet.
+**Step 1:** You should have an editable webpage, and add the following code into the page ```<body/>```:
 ```
 <div id="webchat"/>
 <script src="https://storage.googleapis.com/mrbot-cdn/webchat-0.5.0.js"></script>
@@ -182,3 +183,30 @@ First, you should have an editable webpage, and add the following code into the 
   })
 </script>
 ```
+Now, the webchat widget should be appearred on your webpage, but the status is "Waiting for UTS server..."
+**Step 2:** Edit the ```credential.yml``` file as follows
+```
+socketio:
+  user_message_evt: user_uttered
+  bot_message_evt: bot_uttered
+  session_persistence: true
+```
+**Step 3:** Edit the ```endpoints.yml``` file as follows
+```
+action_endpoint:
+    url: http://localhost:5055/webhook
+```
+**Step 4:** Open the first terminal (all the terminals should be opened under the "capstone-master" folder) and start the *ngrok*
+```
+ ./ngrok http 5005
+```
+Ngrok will generate two random links (like https://c0c20d0c.ngrok.io) with different head, i.e., "http://" or "https://". Use one of them to update the "socketUrl" parameter defined in the first step.
+**Step 5:** Open the second terminal and start the action server
+```
+rasa run actions
+```
+**Step 6:** Open the third terminal and run the chatbot
+```
+rasa run -m models/20190717-114901.tar.gz --endpoints endpoints.yml --credentials credentials.yml
+```
+This starts the well-trained chatbot stored under the "models" folder, and the webchat tool should be run fine.
