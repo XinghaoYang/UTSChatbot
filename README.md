@@ -184,6 +184,7 @@ Before using the webchat widget, one need to register and install the [ngrok](ht
 </script>
 ```
 Now, the webchat widget should be appearred on your webpage, but the status is "Waiting for UTS server..."
+
 **Step 2:** Edit the ```credential.yml``` file as follows
 ```
 socketio:
