@@ -148,8 +148,8 @@ get_type()              -> returns type (course, major, subject, etc.)
 url()                   -> returns url on UTS handbook 
 ```
 
-### Steps for making a webchat tool
-Before using the webchat widget, one need to register and install the [ngrok](https://dashboard.ngrok.com/signup) by following the "Setup & Installation" four steps. Ngrok allows you to expose a web server running on your local machine to the internet.
+## Steps for making a webchat tool
+Before using the webchat widget, one need to register and install the [ngrok](https://dashboard.ngrok.com/signup) by following the "Setup & Installation" four steps. Ngrok allows you to expose a web server running on your local machine to the internet. After installation, the following 6 steps help to enable the webchat.
 **Step 1:** You should have an editable webpage, and add the following code into the page ```<body/>```:
 ```
 <div id="webchat"/>
