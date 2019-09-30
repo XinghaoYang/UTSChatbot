@@ -212,4 +212,4 @@ rasa run actions
 ```
 rasa run -m models/20190717-114901.tar.gz --endpoints endpoints.yml --credentials credentials.yml
 ```
-This starts the well-trained chatbot stored under the "models" folder, and the webchat tool should be run fine.
+This starts the well-trained chatbot stored under the "models" folder, and the webchat tool should be run fine. Notably, many parameters of the first step could be changed. For example, the "interval" defines the waiting time for each query, and the "profileAvatar" is the picture in chat, etc.
