@@ -1,4 +1,4 @@
-# UTS FEIT Chatbot
+﻿# UTS FEIT Chatbot
 Supervisor: [Wei Liu](https://www.uts.edu.au/staff/wei.liu)
 
 ## Description
@@ -99,20 +99,20 @@ utter_greet:
 - text: Hey! I am a chatbot from UTS. Ask me what I can do!
 - text: Hello! I am Stu and I am from UTS 
 ```
-### new question
+### New question
 
-We have added a question and answer about the class time.you can ask questions about the time of the IT course.
+We have added a question and answer about the class time. Users can ask questions about the time of the IT course.
 
-You can ask questions like the following：
+Some examples of new questions：
 
-intent:years_entities
+intent: years_entities
 
 - which semester does [32123](code) in [Bachelor of Information Technology](name) take classes?
 - when is the [32345](code) in [Bachelor of Information Technology](name)?
 - when does [32345](code) in [Bachelor of Information Technology](name) take classes?
 - when will [43234](code) in [Bachelor of Information Technology](name) be taught?
 
-intent:years
+intent: years
 
 - When is the [32345]?
 - which term of the [32343](code)?
@@ -127,9 +127,9 @@ intent:years
 - When will [32567](code) be held?
 - When will [32567](code) begin？
 
-### contribution
+### HDU contributions
 
-We added the code and necessary data about this question, and added code in action.py to answer this question. In the di'rectory_loader.py, we added code for loading the corresponding data. we added the corresponding intent question in nlu.md, added the corresponding question and answer scene in stories.md, added data related to class time in item.csv. All professional name entities that need to be identified are added to entities.txt.
+We added the code and necessary data about this question, and added code in action.py to answer this question. In the directory_loader.py, we added code for loading the corresponding data. we added the corresponding intent question in nlu.md, added the corresponding question and answer scene in stories.md, added data related to class time in item.csv. All professional name entities that need to be identified are added to entities.txt.
 
 In the process of understanding the code, we found that part of the code extremely reduced the efficiency of the code running, so we optimized the code without affecting the system function, so that the response time of the system has been greatly improved.
 
