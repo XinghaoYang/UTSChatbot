@@ -147,3 +147,38 @@ get_search_list()       -> returns list of alt. names paired with ID
 get_type()              -> returns type (course, major, subject, etc.)
 url()                   -> returns url on UTS handbook 
 ```
+
+### Steps for making a webchat tool
+First, you should have an editable webpage, and add the following code into the page body:
+```
+<div id="webchat"/>
+<script src="https://storage.googleapis.com/mrbot-cdn/webchat-0.5.0.js"></script>
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+    initPayload: "/get_started",
+    interval: 1, // 1000 ms between each message
+    customData: {"userId": "123"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+    socketUrl: "https://c0c20d0c.ngrok.io",
+    socketPath: "/socket.io/",
+    title: "FEIT Course Assistant",
+    subtitle: "Welcome!",
+    inputTextFieldHint: "Type a message...",
+    connectingText: "Waiting for UTS server...",
+    hideWhenNotConnected: false,
+    fullScreenMode: false,
+    profileAvatar: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/UTS_emblem.png/150px-UTS_emblem.png",
+    openLauncherImage: 'myCustomOpenImage.png',
+    closeLauncherImage: 'myCustomCloseImage.png',
+    params: {
+      images: {
+        dims: {
+          width: 300,
+          height: 200,
+        }
+      },
+      storage: "local"
+    }
+  })
+</script>
+```
