@@ -201,6 +201,7 @@ action_endpoint:
  ./ngrok http 5005
 ```
 Ngrok will generate two random links (like https://c0c20d0c.ngrok.io) with different head, i.e., "http://" or "https://". Use one of them to update the "socketUrl" parameter defined in the first step.
+
 **Step 5:** Open the second terminal and start the action server
 ```
 rasa run actions
