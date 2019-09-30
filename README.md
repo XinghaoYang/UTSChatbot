@@ -99,7 +99,7 @@ utter_greet:
 - text: Hey! I am a chatbot from UTS. Ask me what I can do!
 - text: Hello! I am Stu and I am from UTS 
 ```
-### New question
+### HDU new questions
 
 We have added a question and answer about the class time. Users can ask questions about the time of the IT course.
 
@@ -107,25 +107,25 @@ Some examples of new questions：
 
 intent: years_entities
 
-- which semester does [32123](code) in [Bachelor of Information Technology](name) take classes?
-- when is the [32345](code) in [Bachelor of Information Technology](name)?
-- when does [32345](code) in [Bachelor of Information Technology](name) take classes?
-- when will [43234](code) in [Bachelor of Information Technology](name) be taught?
+- which semester does 32123 in Bachelor of Information Technology take classes?
+- when is the 32345 in Bachelor of Information Technology?
+- when does 32345 in Bachelor of Information Technology take classes?
+- when will 43234 in Bachelor of Information Technology be taught?
 
 intent: years
 
-- When is the [32345]?
-- which term of the [32343](code)?
-- which semester does [32123](code) take classes?
-- When does [32567](code) take classes?
-- When will [32567](code) be taught?
-- When does [32567](code) start？
-- When do I take [32567](code) course?
-- What semester will [32567](code) be held?
-- What semester is [32567](code) in？
-- Can you tell me the semester of [32567](code) ?
-- When will [32567](code) be held?
-- When will [32567](code) begin？
+- When is the 32345?
+- which term of the 32343?
+- which semester does 32123 take classes?
+- When does 32567 take classes?
+- When will 32567 be taught?
+- When does 32567 start？
+- When do I take 32567 course?
+- What semester will 32567 be held?
+- What semester is 32567 in？
+- Can you tell me the semester of 32567?
+- When will 32567 be held?
+- When will 32567 begin？
 
 ### HDU contributions
 
