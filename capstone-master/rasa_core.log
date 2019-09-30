@@ -1,0 +1,1669 @@
+2019-07-18 21:22:22,444 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm4qN7J'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-18 21:22:28,066 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm4qRBv'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-18 21:22:54,793 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm4qSZk'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-18 21:23:00,299 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm4qYgP'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-18 21:33:30,189 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm4syqV'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-18 21:33:59,758 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm4s-IF'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:02:14,741 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YKup'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:02:19,746 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YM7Y'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:02:24,777 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YNM5'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:02:29,801 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YOae'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:02:34,831 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YPpD'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:02:39,859 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YR1n'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:02:44,886 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YSGK'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:02:49,913 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YTUu'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:02:54,940 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YUjR'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:02:59,968 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YVx_'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:04,996 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YXAY'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:10,024 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YYP6'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:15,053 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YZdi'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:20,079 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YasD'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:25,109 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Yc4n'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:30,134 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YdJJ'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:35,159 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YeXs'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:40,186 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YfmO'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:45,213 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Yg-y'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:50,240 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YiDV'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:03:55,267 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YjS2'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:00,294 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Ykgb'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:05,323 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Ylv9'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:10,351 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Yn7j'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:15,378 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YoMH'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:20,404 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Ypap'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:25,432 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YqpM'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:30,459 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Ys1u'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:35,484 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YtGQ'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:40,512 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YuU-'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:45,540 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YvjY'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:50,567 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Ywy6'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:04:55,596 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YyAh'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:00,624 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7YzPE'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:05,652 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Y-dp'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:10,680 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Y_sN'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:15,712 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Z14x'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:20,736 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Z2JV'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:25,766 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Z3Y2'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:30,790 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Z4ma'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:35,817 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Z5_8'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:40,848 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Z7Dk'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:45,875 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Z8SJ'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:50,903 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Z9gs'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:05:55,929 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZAvO'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:00,971 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZC7y'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:06,000 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZDMl'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:11,028 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZEbJ'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:16,060 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZFpt'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:21,085 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZH2R'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:26,116 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZIG_'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:31,143 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZJVa'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:36,168 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZKk7'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:41,196 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZLyg'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:46,224 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZNBF'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:51,255 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZOPs'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:06:56,281 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZPeP'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:01,309 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZQsy'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:06,337 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZS5V'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:11,367 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZTK5'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:16,398 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZUYg'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:21,423 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZVnE'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:26,454 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZW_m'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:31,479 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZYEL'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:36,505 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZZSu'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:41,532 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZahR'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:46,559 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Zbv-'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:51,586 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Zd8X'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:07:56,614 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZeN5'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:01,642 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Zfbf'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:06,671 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZgqD'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:11,699 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Zi2o'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:16,731 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZjHN'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:21,755 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZkVw'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:26,786 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZlkU'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:31,812 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Zmz1'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:36,838 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZoBb'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:41,865 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZpQ8'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:46,894 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Zqej'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:51,922 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZrtH'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:08:56,949 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Zt5q'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:01,977 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZuKO'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:07,004 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZvYw'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:12,032 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZwnV'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:17,059 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Zy02'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:22,573 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ZzMD'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:28,575 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7Z-pz'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:34,575 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7a0Hj'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:40,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7a1lT'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:46,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7a3DC'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:52,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7a4gy'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:09:58,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7a68i'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:10:04,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7a7cS'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:10:10,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7a94C'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:10:16,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aAXz'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:10:22,575 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aB_i'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:10:28,577 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aDTS'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:10:34,576 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aExD'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:10:40,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aGOy'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:10:46,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aHsj'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:10:52,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aJKS'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:10:58,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aKoD'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:11:04,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aMFz'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:11:10,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aNjj'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:11:16,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aPBT'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:11:22,575 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aQfC'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:11:28,577 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aS6z'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:11:34,576 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aTaj'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:11:40,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aV2T'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:11:46,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aWWC'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:11:52,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aXzz'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:11:58,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aZRj'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:12:04,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aavT'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:12:10,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7acND'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:12:16,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7adqz'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:12:22,575 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7afIi'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:12:28,577 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7agmT'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:12:34,576 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7aiEC'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:12:40,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ajhy'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:12:46,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7al9j'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:12:52,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7amdS'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:12:58,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ao5C'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:13:04,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7apYz'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:13:10,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ar0i'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:13:16,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7asUS'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:13:22,575 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7atyD'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:13:28,577 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7avPz'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:13:34,576 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7awti'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:13:40,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7ayLS'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:13:46,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7azpC'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:13:52,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7a_Gz'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:13:58,575 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7b0kk'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:14:04,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7b2CS'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:14:10,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7b3gC'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-19 10:14:16,574 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/socket.io/?EIO=3&transport=polling&t=Mm7b57z'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-07-24 11:19:23,464 [ERROR]  Exception occurred while handling uri: 'http://bccd2161.ngrok.io/'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-07-24 11:19:23,466 [ERROR]  Exception occurred while handling uri: 'http://bccd2161.ngrok.io/'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-07-24 11:20:02,406 [ERROR]  Exception occurred while handling uri: 'http://bccd2161.ngrok.io/favicon.ico'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-08-02 10:41:23,342 [ERROR]  Unable to start server
+Traceback (most recent call last):
+  File "uvloop/loop.pyx", line 1112, in uvloop.loop.Loop._create_server
+  File "uvloop/handles/streamserver.pyx", line 58, in uvloop.loop.UVStreamServer.listen
+  File "uvloop/handles/streamserver.pyx", line 95, in uvloop.loop.UVStreamServer._fatal_error
+OSError: [Errno 98] Address already in use
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/server.py", line 745, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1451, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1684, in create_server
+  File "uvloop/loop.pyx", line 1116, in uvloop.loop.Loop._create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 5005): address already in use
+2019-08-02 14:45:19,134 [ERROR]  Exception occurred while handling uri: 'http://f77c8ebf.ngrok.io/socket.io/?EIO=3&transport=polling&t=MnGf9SH&sid=a5aa81f6afef466ba72c8333335da67c'
+NoneType: None
+2019-08-02 14:45:20,796 [ERROR]  Exception occurred while handling uri: 'ws://f77c8ebf.ngrok.io/socket.io/?EIO=3&transport=websocket&sid=a5aa81f6afef466ba72c8333335da67c'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 222, in handle_request
+    packets = await socket.handle_get_request(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 89, in handle_get_request
+    return await getattr(self, '_upgrade_' + transport)(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 128, in _upgrade_websocket
+    return await ws(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 122, in __call__
+    await self.handler(self)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 152, in _websocket_handler
+    pkt = await ws.wait()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 131, in wait
+    data = await self._sock.recv()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1005 (no status code [internal]), no reason
+2019-08-02 14:53:51,424 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/client/session.py", line 1334, in _do_call
+    return fn(*args)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/client/session.py", line 1319, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/client/session.py", line 1407, in _call_tf_sessionrun
+    run_metadata)
+tensorflow.python.framework.errors_impl.InternalError: Could not launch DiagPartOp kernel: out of memory.
+	 [[{{node lstm/recurrent_kernel/Initializer/DiagPart}}]]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1451, in uvloop.loop.Loop.run_until_complete
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/run.py", line 218, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/agent.py", line 262, in load_agent
+    remote_storage=remote_storage,
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/agent.py", line 892, in load_local_model
+    remote_storage=remote_storage,
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/agent.py", line 378, in load
+    ensemble = PolicyEnsemble.load(core_model) if core_model else None
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/policies/ensemble.py", line 232, in load
+    policy = policy_cls.load(policy_path)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/policies/keras_policy.py", line 320, in load
+    model = load_model(model_file)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/saving.py", line 237, in load_model
+    load_weights_from_hdf5_group(f['model_weights'], model.layers)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/saving.py", line 820, in load_weights_from_hdf5_group
+    K.batch_set_value(weight_value_tuples)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/backend.py", line 2880, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/backend.py", line 482, in get_session
+    _initialize_variables(session)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/backend.py", line 765, in _initialize_variables
+    session.run(variables_module.variables_initializer(uninitialized_vars))
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/client/session.py", line 929, in run
+    run_metadata_ptr)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/client/session.py", line 1152, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/client/session.py", line 1328, in _do_run
+    run_metadata)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/client/session.py", line 1348, in _do_call
+    raise type(e)(node_def, op, message)
+tensorflow.python.framework.errors_impl.InternalError: Could not launch DiagPartOp kernel: out of memory.
+	 [[node lstm/recurrent_kernel/Initializer/DiagPart (defined at /data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/policies/keras_policy.py:320) ]]
+
+Caused by op 'lstm/recurrent_kernel/Initializer/DiagPart', defined at:
+  File "/home/xingyang/Data/anaconda3/bin/rasa", line 10, in <module>
+    sys.exit(main())
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/__main__.py", line 76, in main
+    cmdline_arguments.func(cmdline_arguments)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/cli/run.py", line 115, in run
+    rasa.run(**vars(args))
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/run.py", line 54, in run
+    **kwargs
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/run.py", line 179, in serve_application
+    app.run(host="0.0.0.0", port=port)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/run.py", line 218, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/agent.py", line 262, in load_agent
+    remote_storage=remote_storage,
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/agent.py", line 892, in load_local_model
+    remote_storage=remote_storage,
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/agent.py", line 378, in load
+    ensemble = PolicyEnsemble.load(core_model) if core_model else None
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/policies/ensemble.py", line 232, in load
+    policy = policy_cls.load(policy_path)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/policies/keras_policy.py", line 320, in load
+    model = load_model(model_file)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/saving.py", line 234, in load_model
+    model = model_from_config(model_config, custom_objects=custom_objects)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/saving.py", line 324, in model_from_config
+    return deserialize(config, custom_objects=custom_objects)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/layers/serialization.py", line 74, in deserialize
+    printable_module_name='layer')
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/utils/generic_utils.py", line 192, in deserialize_keras_object
+    list(custom_objects.items())))
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/sequential.py", line 350, in from_config
+    model.add(layer)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/training/checkpointable/base.py", line 442, in _method_wrapper
+    method(self, *args, **kwargs)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/sequential.py", line 180, in add
+    output_tensor = layer(self.outputs[0])
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/layers/recurrent.py", line 701, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/base_layer.py", line 538, in __call__
+    self._maybe_build(inputs)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/base_layer.py", line 1603, in _maybe_build
+    self.build(input_shapes)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/layers/recurrent.py", line 619, in build
+    self.cell.build(step_input_shape)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/utils/tf_utils.py", line 151, in wrapper
+    output_shape = fn(instance, input_shape)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/layers/recurrent.py", line 2028, in build
+    constraint=self.recurrent_constraint)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/base_layer.py", line 349, in add_weight
+    aggregation=aggregation)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/training/checkpointable/base.py", line 607, in _add_variable_with_custom_getter
+    **kwargs_for_getter)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/base_layer_utils.py", line 145, in make_variable
+    aggregation=aggregation)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/ops/variables.py", line 213, in __call__
+    return cls._variable_v1_call(*args, **kwargs)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/ops/variables.py", line 176, in _variable_v1_call
+    aggregation=aggregation)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/ops/variables.py", line 155, in <lambda>
+    previous_getter = lambda **kwargs: default_variable_creator(None, **kwargs)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/ops/variable_scope.py", line 2488, in default_variable_creator
+    import_scope=import_scope)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/ops/variables.py", line 217, in __call__
+    return super(VariableMetaclass, cls).__call__(*args, **kwargs)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/ops/resource_variable_ops.py", line 294, in __init__
+    constraint=constraint)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/ops/resource_variable_ops.py", line 406, in _init_from_args
+    initial_value() if init_from_fn else initial_value,
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/keras/engine/base_layer_utils.py", line 127, in <lambda>
+    shape, dtype=dtype, partition_info=partition_info)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py", line 586, in __call__
+    d = array_ops.diag_part(r)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/ops/gen_array_ops.py", line 1945, in diag_part
+    "DiagPart", input=input, name=name)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/util/deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/ops.py", line 3300, in create_op
+    op_def=op_def)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/tensorflow/python/framework/ops.py", line 1801, in __init__
+    self._traceback = tf_stack.extract_stack()
+
+InternalError (see above for traceback): Could not launch DiagPartOp kernel: out of memory.
+	 [[node lstm/recurrent_kernel/Initializer/DiagPart (defined at /data/xingyang/anaconda3/lib/python3.7/site-packages/rasa/core/policies/keras_policy.py:320) ]]
+
+2019-08-02 15:34:49,031 [ERROR]  Exception occurred while handling uri: 'http://814d074f.ngrok.io/socket.io/?EIO=3&transport=polling&t=MnGqiWY&sid=fe102e458f2544b4af3e961b2907cc71'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 239, in handle_request
+    socket = self._get_socket(sid)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/server.py", line 536, in _get_socket
+    raise KeyError('Session is disconnected')
+KeyError: 'Session is disconnected'
+2019-08-02 15:37:38,023 [ERROR]  Exception occurred while handling uri: 'ws://814d074f.ngrok.io/socket.io/?EIO=3&transport=websocket&sid=3039f81f72004feda63d8e4a9d9644a3'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 222, in handle_request
+    packets = await socket.handle_get_request(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 89, in handle_get_request
+    return await getattr(self, '_upgrade_' + transport)(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 128, in _upgrade_websocket
+    return await ws(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 122, in __call__
+    await self.handler(self)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 152, in _websocket_handler
+    pkt = await ws.wait()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 131, in wait
+    data = await self._sock.recv()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1001 (going away), no reason
+2019-08-02 15:38:40,061 [ERROR]  Exception occurred while handling uri: 'http://814d074f.ngrok.io/socket.io/?EIO=3&transport=polling&t=MnGrMwh&sid=1c6b9839f5c947cc8e3439dca00d0c03'
+NoneType: None
+2019-08-02 15:39:54,300 [ERROR]  Exception occurred while handling uri: 'ws://814d074f.ngrok.io/socket.io/?EIO=3&transport=websocket&sid=7b8938e3775a49d48c347827ab9f0a18'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 222, in handle_request
+    packets = await socket.handle_get_request(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 89, in handle_get_request
+    return await getattr(self, '_upgrade_' + transport)(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 128, in _upgrade_websocket
+    return await ws(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 122, in __call__
+    await self.handler(self)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 152, in _websocket_handler
+    pkt = await ws.wait()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 131, in wait
+    data = await self._sock.recv()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1001 (going away), no reason
+2019-08-02 15:40:52,023 [ERROR]  Exception occurred while handling uri: 'http://814d074f.ngrok.io/socket.io/?EIO=3&transport=polling&t=MnGrt8l&sid=7b8938e3775a49d48c347827ab9f0a18'
+NoneType: None
+2019-08-02 16:05:02,669 [ERROR]  Exception occurred while handling uri: 'ws://814d074f.ngrok.io/socket.io/?EIO=3&transport=websocket&sid=177afa0db99a4aab9fb40fb7bc89c86a'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 222, in handle_request
+    packets = await socket.handle_get_request(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 89, in handle_get_request
+    return await getattr(self, '_upgrade_' + transport)(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 128, in _upgrade_websocket
+    return await ws(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 122, in __call__
+    await self.handler(self)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 152, in _websocket_handler
+    pkt = await ws.wait()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 131, in wait
+    data = await self._sock.recv()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1001 (going away), no reason
+2019-08-04 16:43:08,200 [ERROR]  Exception occurred while handling uri: 'ws://814d074f.ngrok.io/socket.io/?EIO=3&transport=websocket&sid=8fdaa658cad849bea89882fa1209a67a'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 222, in handle_request
+    packets = await socket.handle_get_request(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 89, in handle_get_request
+    return await getattr(self, '_upgrade_' + transport)(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 128, in _upgrade_websocket
+    return await ws(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 122, in __call__
+    await self.handler(self)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 152, in _websocket_handler
+    pkt = await ws.wait()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 131, in wait
+    data = await self._sock.recv()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1001 (going away), no reason
+2019-08-04 16:55:29,234 [ERROR]  Exception occurred while handling uri: 'ws://814d074f.ngrok.io/socket.io/?EIO=3&transport=websocket&sid=13af12bd21ed44388f279f3f110c52b6'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 222, in handle_request
+    packets = await socket.handle_get_request(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 89, in handle_get_request
+    return await getattr(self, '_upgrade_' + transport)(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 128, in _upgrade_websocket
+    return await ws(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 122, in __call__
+    await self.handler(self)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 152, in _websocket_handler
+    pkt = await ws.wait()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 131, in wait
+    data = await self._sock.recv()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1001 (going away), no reason
+2019-08-04 17:04:28,238 [ERROR]  Exception occurred while handling uri: 'ws://814d074f.ngrok.io/socket.io/?EIO=3&transport=websocket&sid=af08714ac20a43938ce639079dab8c81'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 222, in handle_request
+    packets = await socket.handle_get_request(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 89, in handle_get_request
+    return await getattr(self, '_upgrade_' + transport)(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 128, in _upgrade_websocket
+    return await ws(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 122, in __call__
+    await self.handler(self)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 152, in _websocket_handler
+    pkt = await ws.wait()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 131, in wait
+    data = await self._sock.recv()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1001 (going away), no reason
+2019-08-08 09:31:43,055 [ERROR]  Exception occurred while handling uri: 'http://50c919c2.ngrok.io/socket.io/?EIO=3&transport=polling&t=MnkQw5k&sid=7215b8c5c7ed47148f101ebfd9685ab3'
+NoneType: None
+2019-08-08 09:31:43,633 [ERROR]  Exception occurred while handling uri: 'ws://50c919c2.ngrok.io/socket.io/?EIO=3&transport=websocket&sid=7215b8c5c7ed47148f101ebfd9685ab3'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 222, in handle_request
+    packets = await socket.handle_get_request(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 89, in handle_get_request
+    return await getattr(self, '_upgrade_' + transport)(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 128, in _upgrade_websocket
+    return await ws(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 122, in __call__
+    await self.handler(self)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 152, in _websocket_handler
+    pkt = await ws.wait()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 131, in wait
+    data = await self._sock.recv()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1005 (no status code [internal]), no reason
+2019-08-08 09:59:29,954 [ERROR]  Exception occurred while handling uri: 'http://50c919c2.ngrok.io/socket.io/?EIO=3&transport=polling&t=MnkXH30&sid=8f98bf9bc3ba4de181a26575f2a7fbb4'
+NoneType: None
+2019-09-23 21:19:10,499 [ERROR]  Exception occurred while handling uri: 'http://60da325c.ngrok.io/socket.io/?EIO=3&transport=polling&t=MrTr-0M&sid=0f278c1268b4449fb5f0c4336a6f9f77'
+NoneType: None
+2019-09-23 21:19:11,102 [ERROR]  Exception occurred while handling uri: 'ws://60da325c.ngrok.io/socket.io/?EIO=3&transport=websocket&sid=0f278c1268b4449fb5f0c4336a6f9f77'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 222, in handle_request
+    packets = await socket.handle_get_request(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 89, in handle_get_request
+    return await getattr(self, '_upgrade_' + transport)(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 128, in _upgrade_websocket
+    return await ws(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 122, in __call__
+    await self.handler(self)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 152, in _websocket_handler
+    pkt = await ws.wait()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 131, in wait
+    data = await self._sock.recv()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1005 (no status code [internal]), no reason

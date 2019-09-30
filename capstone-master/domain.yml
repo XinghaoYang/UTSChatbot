@@ -1,0 +1,73 @@
+actions:
+- action_years
+- action_years_entities
+- action_children
+- action_combined
+- action_details
+- action_hons
+- action_prof_prac
+- action_credit_points
+- action_duration
+- action_atar
+- action_fees
+- utter_goodbye
+- utter_greet
+- utter_thanks
+- utter_what_can_you_do
+entities:
+- code
+- name
+- type
+intents:
+- years
+- years_entities
+- greet
+- children
+- details
+- goodbye
+- thanks
+- affirm
+- list
+- honours
+- combined
+- duration
+- credit_points
+- what_can_you_do
+- prof_prac
+- fees
+- atar
+
+slots:
+  code:
+    type: text
+templates:
+  utter_code_does_not_exist:
+  - text: "{code} does not exist in the UTS directory."
+  - text: "Sorry, I could not find {code} in the UTS directory."
+  - text: "I cannot find {code} in the UTS directory."
+  utter_fallback:
+  - text: "Sorry I did not recognise that input. Can you try again?"
+  - text: "Sorry I did not get that. Could you try that again?"
+  utter_goodbye:
+  - text: "Bye"
+  - text: "See you!"
+  - text: "Ciao!"
+  - text: "Adios!"
+  - text: "Goodbye!"
+  utter_greet:
+  - text: "Hi there! I am Stu from UTS. Do you need any help with selecting course?"
+  - text: "Ello mate! Ask me anything about UTS!"
+  - text: "Hi! I am Stu. Do you have any questions about FEIT at UTS?"
+  - text: "Hey, I am a chatbot from UTS. Ask me what I can do!"
+  utter_name_does_not_exist:
+  - text: "Sorry, I could not find anything called {name} in the UTS directory."
+  - text: "I cannot find {name} in the UTS directory. Sorry!"
+  utter_thanks:
+  - text: "No worries!"
+  - text: "Not a problem!"
+  - text: "You are welcome!"
+  utter_what_can_you_do:
+  - text: "You can ask me about any courses, majors, or subjects at UTS! You can ask me about the details such as name,
+  credit points, or contents within a course or major."
+  - text: "Ask me about the name, credit points, contents, ATAR requirements, duration, for any course at UTS. You can
+  also ask me if the degree is a honours degree or a degree with a diploma in professional practice."
