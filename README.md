@@ -184,7 +184,7 @@ Before using the webchat widget, one need to register and install the [ngrok](ht
   })
 </script>
 ```
-Now, the webchat widget should be appearred on your webpage, but the status is "Waiting for UTS server..."
+Now, the webchat widget should be appearred on your webpage, but the status is "Waiting for UTS server...". Notably, many parameters can be redefined by user. For example, the "interval" controls the waiting time for each query, and the "profileAvatar" is the picture in chat, etc.
 
 **Step 2:** Edit the ```credential.yml``` file as follows
 ```
@@ -212,4 +212,4 @@ rasa run actions
 ```
 rasa run -m models/20190717-114901.tar.gz --endpoints endpoints.yml --credentials credentials.yml
 ```
-This starts the well-trained chatbot stored under the "models" folder, and the webchat tool should be run fine. Notably, many parameters of the first step could be changed. For example, the "interval" defines the waiting time for each query, and the "profileAvatar" is the picture in chat, etc.
+This starts the well-trained chatbot stored under the "models" folder, and the webchat tool should be run fine. 
