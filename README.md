@@ -4,6 +4,9 @@ Supervisor: [Wei Liu](https://www.uts.edu.au/staff/wei.liu)
 ## Description
 UTS FEIT Chatbot is a chatbot directed for prospective high school students in search of universities to get into. The chatbot is able to answer user queries regarding courses at UTS including details of the course such as duration, credit points, as well as answering queries regarding the structure of courses and subjects at UTS. 
 
+A live instance of the chatbot is [live on webpage](https://xinghaoyang.github.io/webchat/)
+
+
 
 ## Functionality
 
