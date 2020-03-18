@@ -103,7 +103,7 @@ utter_greet:
 ```
 ### HDU new questions
 
-We have added a question and answer about the class time. Users can ask questions about the time of the IT course.
+They have added a question and answer about the class time. Users can ask questions about the time of the IT course.
 
 Some examples of new questions：
 
@@ -131,9 +131,9 @@ intent: years
 
 ### HDU contributions
 
-We added the code and necessary data about this question, and added code in action.py to answer this question. In the directory_loader.py, we added code for loading the corresponding data. we added the corresponding intent question in nlu.md, added the corresponding question and answer scene in stories.md, added data related to class time in item.csv. All professional name entities that need to be identified are added to entities.txt.
+They added the code and necessary data about this question, and added code in action.py to answer this question. In the directory_loader.py, they added code for loading the corresponding data. They added the corresponding intent question in nlu.md, added the corresponding question and answer scene in stories.md, added data related to class time in item.csv. All professional name entities that need to be identified are added to entities.txt.
 
-In the process of understanding the code, we found that part of the code extremely reduced the efficiency of the code running, so we optimized the code without affecting the system function, so that the response time of the system has been greatly improved.
+In the process of understanding the code, they found that part of the code extremely reduced the efficiency of the code running, so we optimized the code without affecting the system function, so that the response time of the system has been greatly improved.
 
 ### Other yml files
 
