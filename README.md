@@ -106,6 +106,7 @@ utter_greet:
 Users can ask questions about the time of the IT course. Some examples of new questions：
 
 - which semester does 48024 take classes?
+- which semester does 48024 in bachelor of information technology take classes?
 - when is the 41092 in Bachelor of Information Technology?
 - which semester does 41889 start?
 
