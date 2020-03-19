@@ -6,6 +6,9 @@ UTS FEIT Chatbot is a chatbot directed for prospective high school students in s
 
 A live instance of the chatbot is [live on WebChat](https://xinghaoyang.github.io/webchat/)
 
+[![ScreenShot](/upload/ask/29/W/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
+
 
 
 ## Functionality
