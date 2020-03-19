@@ -103,37 +103,12 @@ utter_greet:
 ```
 ### HDU new questions
 
-They have added a question and answer about the class time. Users can ask questions about the time of the IT course.
+Users can ask questions about the time of the IT course. Some examples of new questions：
 
-Some examples of new questions：
+- which semester does 48024 take classes?
+- when is the 41092 in Bachelor of Information Technology?
+- which semester does 41889 start?
 
-intent: years_entities
-
-- which semester does 32123 in Bachelor of Information Technology take classes?
-- when is the 32345 in Bachelor of Information Technology?
-- when does 32345 in Bachelor of Information Technology take classes?
-- when will 43234 in Bachelor of Information Technology be taught?
-
-intent: years
-
-- When is the 32345?
-- which term of the 32343?
-- which semester does 32123 take classes?
-- When does 32567 take classes?
-- When will 32567 be taught?
-- When does 32567 start？
-- When do I take 32567 course?
-- What semester will 32567 be held?
-- What semester is 32567 in？
-- Can you tell me the semester of 32567?
-- When will 32567 be held?
-- When will 32567 begin？
-
-### HDU contributions
-
-They added the code and necessary data about this question, and added code in action.py to answer this question. In the directory_loader.py, they added code for loading the corresponding data. They added the corresponding intent question in nlu.md, added the corresponding question and answer scene in stories.md, added data related to class time in item.csv. All professional name entities that need to be identified are added to entities.txt.
-
-In the process of understanding the code, they found that part of the code extremely reduced the efficiency of the code running, so we optimized the code without affecting the system function, so that the response time of the system has been greatly improved.
 
 ### Other yml files
 
