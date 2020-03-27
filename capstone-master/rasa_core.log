@@ -1667,3 +1667,26 @@ Traceback (most recent call last):
   File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
     self.close_code, self.close_reason) from self.transfer_data_exc
 websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1005 (no status code [internal]), no reason
+2020-03-19 11:52:04,738 [ERROR]  Exception occurred while handling uri: 'http://493ace8a.ngrok.io/socket.io/?EIO=3&transport=polling&t=N3mHR0V&sid=155f74cceda443fcb8409729790f6b94'
+NoneType: None
+2020-03-19 11:52:05,825 [ERROR]  Exception occurred while handling uri: 'ws://493ace8a.ngrok.io/socket.io/?EIO=3&transport=websocket&sid=155f74cceda443fcb8409729790f6b94'
+Traceback (most recent call last):
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/sanic/app.py", line 917, in handle_request
+    response = await response
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_server.py", line 222, in handle_request
+    packets = await socket.handle_get_request(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 89, in handle_get_request
+    return await getattr(self, '_upgrade_' + transport)(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 128, in _upgrade_websocket
+    return await ws(environ)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 122, in __call__
+    await self.handler(self)
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/asyncio_socket.py", line 152, in _websocket_handler
+    pkt = await ws.wait()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/engineio/async_drivers/sanic.py", line 131, in wait
+    data = await self._sock.recv()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 350, in recv
+    yield from self.ensure_open()
+  File "/data/xingyang/anaconda3/lib/python3.7/site-packages/websockets/protocol.py", line 512, in ensure_open
+    self.close_code, self.close_reason) from self.transfer_data_exc
+websockets.exceptions.ConnectionClosed: WebSocket connection is closed: code = 1005 (no status code [internal]), no reason
