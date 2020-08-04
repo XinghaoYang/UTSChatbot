@@ -201,13 +201,11 @@ New contributions are：
 
 - Address limitations, like no response to courses do not exist.
 - Extend the chatbot from bachelor to cover master.
-- Transfer the chatbot from Rasa to Rasa-X in a Virtual Machine.
-
-## Steps for deploying RASA X, storing conversation data and publishing chatbot through ngrok
+- Transfer the chatbot from Rasa to Rasa-X in a Virtual Machine. The following steps are for deploying Rasa-X, storing conversation data and publishing chatbot through ngrok.
 
 **Step 1:** 
-RASA X Installation for MACOS
-The recommend method for installing RASA X in MACOS is through Multipass. This is the installation link for Multipass : https://multipass.run/ .After the installation of Multipass, you need to create an Ubuntu instance and access by below commands.
+RASA X Installation for MACOS.
+The recommend method for installing RASA X in MACOS is through Multipass. This is the installation link for Multipass : https://multipass.run/. After the installation of Multipass, you need to create an Ubuntu instance and access by below commands.
 ```
 multipass launch --name k3s --mem 4G --disk 50G
 multipass shell k3s
@@ -225,8 +223,9 @@ The command is:
 multipass info k3s
 
 ```
-**Step 1:** 
+**Step 2:** 
 How to use virtual machine?
+
 A:  Find the Project directory in the files, such as:
 ```
 list all
