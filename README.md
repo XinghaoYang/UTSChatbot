@@ -104,7 +104,7 @@ utter_greet:
 - text: Hey! I am a chatbot from UTS. Ask me what I can do!
 - text: Hello! I am Stu and I am from UTS 
 ```
-### HDU new questions
+**\*\*\*\*\* New September 24th, 2019: HDU new questions \*\*\*\*\***
 
 Users can ask questions about the time of the IT course. Some examples of new questions：
 
@@ -129,7 +129,7 @@ get_type()              -> returns type (course, major, subject, etc.)
 url()                   -> returns url on UTS handbook 
 ```
 
-## Steps for making a webchat tool
+**\*\*\*\*\* New July 18th, 2019: Steps for making a webchat tool \*\*\*\*\***
 Before using the webchat widget, one need to register and install the [ngrok](https://dashboard.ngrok.com/signup) by following the "Setup & Installation" four steps. Ngrok allows you to expose a web server running on your local machine to the internet. After installation, the following 6 steps help to enable the webchat.
 
 **Step 1:** Firstly, you should have an editable webpage, and add the following code into your page ```<body/>```:
