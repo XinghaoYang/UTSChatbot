@@ -195,5 +195,5 @@ get_search_list()       -> returns list of alt. names paired with ID
 get_type()              -> returns type (course, major, subject, etc.)
 url()                   -> returns url on UTS handbook 
 ```
-
+**\*\*\*\*\* New June 16th, 2020: Master courses and Rasa-X implementation \*\*\*\*\***
 
