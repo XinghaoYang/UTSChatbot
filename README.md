@@ -104,31 +104,6 @@ utter_greet:
 - text: Hey! I am a chatbot from UTS. Ask me what I can do!
 - text: Hello! I am Stu and I am from UTS 
 ```
-**\*\*\*\*\* New September 24th, 2019: HDU new questions \*\*\*\*\***
-
-Users can ask questions about the time of the IT course. Some examples of new questions：
-
-- which semester does 48024 take classes?
-- which semester does 48024 in bachelor of information technology take classes?
-- when is the 41092 in Bachelor of Information Technology?
-- which semester does 41889 start?
-
-
-### Other yml files
-
-```endpoints.yml``` contains endpoints required by the bot (i.e. action server), while ```credentials.yml``` are credentials required when running the chatbot on other platforms such as Facebook.
-
-### Python script
-```actions.py``` contains python codes that are run on action calls. Actions are represented as classes which has a function ```name``` that returns a string that corresponds to the name on the domain. The method ```run``` takes three attributes, a dispatcher, tracker, and domain that are used for the run methods.
-```directory_loader.py``` is a python script that loads the dataset in an Object-Oriented environment. The script overrides the [] operators for easy access for entries in the dataset. Functions in the file include:
-```
-code()                  -> returns full code (e.g. C10219 for 10219)
-get_name()              -> returns official item name
-get_search_list()       -> returns list of alt. names paired with ID
-get_type()              -> returns type (course, major, subject, etc.)
-url()                   -> returns url on UTS handbook 
-```
-
 **\*\*\*\*\* New July 18th, 2019: Steps for making a webchat tool \*\*\*\*\***
 
 Before using the webchat widget, one need to register and install the [ngrok](https://dashboard.ngrok.com/signup) by following the "Setup & Installation" four steps. Ngrok allows you to expose a web server running on your local machine to the internet. After installation, the following 6 steps help to enable the webchat.
@@ -195,3 +170,30 @@ rasa run actions
 rasa run -m models/20190717-114901.tar.gz --endpoints endpoints.yml --credentials credentials.yml
 ```
 This starts the well-trained chatbot stored under the "models" folder, and the webchat tool should be run fine. 
+
+**\*\*\*\*\* New September 24th, 2019: HDU new questions \*\*\*\*\***
+
+Users can ask questions about the time of the IT course. Some examples of new questions：
+
+- which semester does 48024 take classes?
+- which semester does 48024 in bachelor of information technology take classes?
+- when is the 41092 in Bachelor of Information Technology?
+- which semester does 41889 start?
+
+
+### Other yml files
+
+```endpoints.yml``` contains endpoints required by the bot (i.e. action server), while ```credentials.yml``` are credentials required when running the chatbot on other platforms such as Facebook.
+
+### Python script
+```actions.py``` contains python codes that are run on action calls. Actions are represented as classes which has a function ```name``` that returns a string that corresponds to the name on the domain. The method ```run``` takes three attributes, a dispatcher, tracker, and domain that are used for the run methods.
+```directory_loader.py``` is a python script that loads the dataset in an Object-Oriented environment. The script overrides the [] operators for easy access for entries in the dataset. Functions in the file include:
+```
+code()                  -> returns full code (e.g. C10219 for 10219)
+get_name()              -> returns official item name
+get_search_list()       -> returns list of alt. names paired with ID
+get_type()              -> returns type (course, major, subject, etc.)
+url()                   -> returns url on UTS handbook 
+```
+
+
